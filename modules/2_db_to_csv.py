@@ -5,7 +5,7 @@ from parser_app.models import MobileGadget
 
 
 
-OUTPUT_FILE = "../files/mobile_gadgets_export.csv"
+OUTPUT_FILE = "results/mobile_gadgets_export.csv"
 
 
 def export_to_csv():
